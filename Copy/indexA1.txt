@@ -1,0 +1,23 @@
+Welcome to the home page for my first WEBD 162 class web site assignment!
+The purpose of this web site is to [learn or refresh my skills] with HyperText Markup Language (HTML) and Cascading Style Sheets (CSS) to build and publish a simple 3 page web site. The following programs were used:
+[editor or IDE name] to make web pages
+W3C Nu Markup Checker to validate HTML
+W3C CSS Validation Service to check Cascading Style Sheets.
+
+The primary audience for this web site is the WEBD 162 instructor and class.
+After visiting this web site, the audience will:
+Know a little bit about me
+Learn about my proposed final project web site topic
+Have the opportunity to provide feedback on my proposed final project web site
+
+Below are some informative images about this website:
+
+Site map
+
+Site organization
+
+Web page template wireframe
+
+Note: All the students in this class have similar web page structure using HTML for the assignment, but the content and styling of each student class assignment web site are unique.
+
+Things will look pretty plain at first. I invite you to visit again and check out my progress!
